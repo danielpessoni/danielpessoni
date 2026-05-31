@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue nas redes abaixo!
+### Quer saber mais sobre mim? Me acompanhe nas redes abaixo!
  
 <div> 
   <a href="https://instagram.com/daniel.pessoni" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
